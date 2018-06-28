@@ -1,0 +1,27 @@
+missing module named resource - imported by posix, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named posix - imported by os, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named _posixsubprocess - imported by subprocess, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named org - imported by pickle, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named readline - imported by cmd, code, pdb, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named _winreg - imported by platform, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named java - imported by platform, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named vms_lib - imported by platform, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named termios - imported by tty, getpass, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named grp - imported by shutil, tarfile, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named _dummy_threading - imported by dummy_threading, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named 'org.python' - imported by copy, xml.sax, E:\py_work\PyCloud-master\PyCloud-master\baike.py
+missing module named iconv_codec - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named lxml - imported by html5lib.treebuilders.etree_lxml, html5lib.treewalkers.etree_lxml, bs4.builder._lxml
+missing module named StringIO - imported by six
+missing module named html5lib.treebuilders._base - imported by html5lib.treebuilders, bs4.builder._html5lib
+runtime module named six.moves - imported by html5lib._inputstream, html5lib.filters.sanitizer
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshi
+missing module named genshi - imported by html5lib.treewalkers.genshi
+missing module named datrie - imported by html5lib._trie.datrie
+missing module named _scproxy - imported by urllib.request
